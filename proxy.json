@@ -1,0 +1,8 @@
+ {
+    "wallet": "CCUWF8sALfvVtv1EvKwuM4p7ZgUWvsrKVzQfFGmBz6pa",
+    "name": "KeithR (Keith Rettig)",
+    "image": "./proxies/KeithRettig/Helium_proxy/image.png",
+    "description": "Proxy voting wallet",
+    "detail": "./proxies/KeithRettig/Helium_proxy/detail.md",
+    "networks": ["Helium"]
+  }
