@@ -7,7 +7,7 @@ WXM:  large plum corona
 
 ## Experience
 
-Started watching the project in its first month.  Join once it was ok to place hotspots in my city.  Manage a fleet of IOT hotspots for an investor group (all friends).  DOing my best to place Helium Mobile Hotspots as well.
+Started watching the project in its first month.  Join once it was ok to place hotspots in my city.  Manage a fleet of IOT hotspots for an investor group (all friends).  Doing my best to place Helium Mobile Hotspots as well.
 Honored to have been an elected member of the MOBILE Working Group since its inception.
 
 ## Voting Philosophy
