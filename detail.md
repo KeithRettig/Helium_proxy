@@ -1,8 +1,11 @@
 ## Socials
 
 Discord:  @KeithR
+
 Twitter:  @Keith_Rettig
+
 LinkedIn:  www.linkedin.com/in/keithrettig/
+
 WXM:  large plum corona
 
 ## Experience
