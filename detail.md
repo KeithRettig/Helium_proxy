@@ -1,4 +1,4 @@
-# socials
+## Socials
 
 Discord:  @KeithR
 Twitter:  @Keith_Rettig
